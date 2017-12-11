@@ -446,5 +446,13 @@ var ModelList = {
         new Model('Domador de Cadaveres', [C.Guild], [C.Enforcer, C.Rare2, C.Living, C.GuildMarshal, C.Wave5], 7),
         new Model('Riotbreaker', [C.Guild], [C.Minion, C.Construct, C.Wave5], 6),
 
+        new Model('Asura Roten', [C.Resurrectionist], [C.Henchman, C.Rare1, C.Living, C.Wave5], 8, 5),
+        new Model('Kentauroi', [C.Resurrectionist], [C.Minion, C.Undead, C.Horror, C.Wave5], 8),
+        new Model('Bone Pile', [C.Resurrectionist], [C.Minion, C.Undead, C.Wave5], 6),
+        new Model('Gravedigger', [C.Resurrectionist], [C.Enforcer, C.Rare2, C.Living, C.Wave5], 7),
+        new Model('Little Gasser', [C.Resurrectionist], [C.Minion, C.Undead, C.Gremlin, C.Wave5], 4),
+        new Model('Lampad', [C.Resurrectionist], [C.Enforcer, C.Rare3, C.Undead, C.Spirit, C.Wave5], 7),
+
+
     ]
 };

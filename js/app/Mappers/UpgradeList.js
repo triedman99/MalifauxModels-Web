@@ -492,6 +492,21 @@ var UpgradeList = {
         new Upgrade('Condescending', [C.Guild, C.Neverborn], [C.Upgrade, 'Lucuis', C.Wave5], 1),
         new Upgrade('Editor in Chief', [C.Guild], [C.Upgrade, 'Nellie Cochrane', C.Wave5], 2),
         new Upgrade('Alternate Facts', [C.Guild], [C.Upgrade, 'Nellie Cochrane', C.Wave5], 2),
-        new Upgrade('Conflux of Propaganda', [C.Guild], [C.Upgrade, 'EmissaryOfFate', C.Wave5], 0)
+        new Upgrade('Conflux of Propaganda', [C.Guild], [C.Upgrade, 'EmissaryOfFate', C.Wave5], 0),
+
+        new Upgrade('Test Subjects', [C.Resurrectionist, C.Guild], [C.Upgrade, 'McMourning', C.Wave5], 1),
+        new Upgrade('Guild Coroner', [C.Resurrectionist, C.Guild], [C.Upgrade, 'McMourning', C,.Wave5], 1),
+        new Upgrade('AKA, Sebastian Baker', [C.Resurrectionist], [C.Upgrade, 'Seamus', C.Wave5], 1),
+        new Upgrade('Do You Know Who I Am?', [C.Resurrectionist], [C.Upgrade, 'Seamus', C.Wave5], 1),
+        new Upgrade('Back On The Job', [C.Resurrectionist], [C.Upgrade, 'Molly', C.Wave5], 2),
+        new Upgrade('Forgotten Items', [C.Resurrectionist], [C.Upgrade, 'Molly', C.Wave5], 2),
+        new Upgrade('Circling Buzzards', [C.Resurrectionist], [C.Upgrade, 'Nicodem', C.Wave5], 2),
+        new Upgrade('Their Last Breath', [C.Resurrectionist], [C.Upgrade, 'Nicodem', C.Wave5], 2),
+        new Upgrade('Vengeance Will be Mine', [C.Resurrectionist], [C.Upgrade, 'Kirai', C.Wave5], 1),
+        new Upgrade('Ectoplasm', [C.Resurrectionist], [C.Upgrade, 'Kirai', C.Wave5], 1),
+        new Upgrade('Specter of Death', [C.Resurrectionist], [C.Upgrade, 'Reva', C.Limited, C.Wave5], 1),
+        new Upgrade('Riders in the Sky', [C.Resurrectionist], [C.Upgrade, 'Reva', C.Wave5], 1),
+        new Upgrade('Conflux of the Reaper', [C.Resurrectionist], [C.Upgrade, 'EmissaryOfFate', C.Wave5], 0),
+
     ]
 };
