@@ -22,7 +22,7 @@ var ModelList = {
         new Model('Nino Ortega', [C.Guild], [C.Enforcer, C.Living, C.Rare1, C.Family, C.Wave1], 7),
         new Model('Papa Loco', [C.Guild], [C.Enforcer, C.Living, C.Rare1, C.Family, C.Tormented, C.Wave1], 7),
         new Model('Santiago Ortega', [C.Guild], [C.Enforcer, C.Living, C.Rare1, C.Family, C.Wave1], 7),
-        
+
         new Model('C. Hoffman', [C.Guild], [C.Master, C.Living, C.Construct, C.Msu, C.Wave2], undefined, 3),
         new Model('Ryle', [C.Guild], [C.Henchman, C.Construct, C.Rare1, C.Msu, C.Wave2], 10, 3),
         new Model('Mechanical Attendant', [C.Guild], [C.Peon, C.Construct, C.TotemFor('C. Hoffman'), C.Wave2], 2),
@@ -45,7 +45,7 @@ var ModelList = {
         new Model('Guild Rifleman', [C.Guild], [C.Minion, C.Living, C.Rare3, C.Guardsman, C.Wave2], 5),
         new Model('Clockwork Trap', [C.Guild, C.TenThunders], [C.Peon, C.Rare4, C.Wave2], 2),
         new Model('Guild Pathfinder', [C.Guild, C.TenThunders], [C.Minion, C.Living, C.Guardsman, C.Wave2], 6),
-        
+
         new Model('Seamus', [C.Resurrectionist], [C.Master, C.Living, C.Wave1], undefined, 3),
         new Model('McMourning', [C.Resurrectionist, C.Guild], [C.Master, C.Living, C.Wave1], undefined, 4),
         new Model('Nicodem', [C.Resurrectionist], [C.Master, C.Living, C.Wave1], undefined, 3),
@@ -66,7 +66,7 @@ var ModelList = {
         new Model('Punk Zombie', [C.Resurrectionist], [C.Minion, C.Undead, C.Horror, C.Wave1], 7),
         new Model('Rotten Belle', [C.Resurrectionist], [C.Minion, C.Undead, C.Belle, C.Wave1], 5),
         new Model('The Hanged', [C.Resurrectionist], [C.Minion, C.Undead, C.Rare2, C.Spirit, C.Tormented, C.Wave1], 9),
-        
+
         new Model('Molly Squidpiddge', [C.Resurrectionist], [C.Master, C.Undead, C.Belle, C.Horror, C.Wave2], undefined, 3),
         new Model('Rogue Necromancy', [C.Resurrectionist], [C.Enforcer, C.Undead, C.Construct, C.Beast, C.Horror, C.Wave2], 10),
         new Model('Guild Autopsy', [C.Resurrectionist], [C.Minion, C.Undead, C.Horror, C.Wave2], 4),
@@ -93,7 +93,7 @@ var ModelList = {
         new Model('Student of Steel', [C.Resurrectionist], [C.Minion, C.Construct, C.Undead, C.Horror, C.Academic, C.Wave2], 7),
         new Model('Student of Viscera', [C.Resurrectionist], [C.Minion, C.Construct, C.Undead, C.Horror, C.Academic, C.Wave2], 8),
         new Model('The Valedictorian', [C.Resurrectionist], [C.Henchman, C.Construct, C.Undead, C.Rare1, C.Horror, C.Academic, C.Wave2], 10, 3),
-                
+
         new Model('Rasputina', [C.Arcanist], [C.Master, C.Living, C.Wave1], undefined, 3),
         new Model('Marcus', [C.Arcanist], [C.Master, C.Living, C.Beast, C.Wave1], undefined, 4),
         new Model('Ramos', [C.Arcanist], [C.Master, C.Living, C.Construct, C.Msu, C.Wave1], undefined, 3),
@@ -117,7 +117,7 @@ var ModelList = {
         new Model('Sabertooth Cerberus', [C.Arcanist], [C.Enforcer, C.Living, C.Beast, C.Wave1], 9),
         new Model('Steam Arachnid', [C.Arcanist], [C.Minion, C.Construct, C.Msu, C.Wave1], 4),
         new Model('Steam Arachnid Swarm', [C.Arcanist], [C.Minion, C.Construct, C.Swarm, C.Msu, C.Wave1], 8),
-        
+
         new Model('Ironsides', [C.Arcanist], [C.Master, C.Living, C.Msu, C.Wave2], undefined, 5),
         new Model('Oxfordian Mage', [C.Arcanist], [C.Enforcer, C.Living, C.Rare3, C.Academic, C.Msu, C.Wave2], 6),
         new Model('Mouse', [C.Arcanist], [C.Peon, C.Living, C.TotemFor('Ironsides'), C.Msu, C.Wave2], 4),
@@ -147,7 +147,7 @@ var ModelList = {
         new Model('Willie', [C.Arcanist], [C.Minion, C.Living, C.Rare1, C.Msu, C.Foundry, C.Wave2], 6),
         new Model('Arcane Effigy', [C.Arcanist], [C.Minion, C.Construct, C.Rare1, C.Puppet, C.Effigy, C.Wave2], 4),
         new Model('Mobile Toolkit', [C.Arcanist], [C.Peon, C.Construct, C.Rare1, C.Msu, C.Wave2], 3),
-        
+
         new Model('Lilith', ['Neverborn'], [C.Master, C.Living, C.Nephilim, C.Wave1], undefined, 4),
         new Model('Pandora', ['Neverborn'], [C.Master, C.Living, C.Woe, C.Wave1], undefined, 3),
         new Model('Zoraida', ['Neverborn', C.Gremlin], [C.Master, C.Living, C.Swampfiend, C.Wave1], undefined, 4),
@@ -168,7 +168,7 @@ var ModelList = {
         new Model('Terror Tot', ['Neverborn'], [C.Minion, C.Living, C.Nephilim, C.Wave1], 4),
         new Model('Waldgeist', ['Neverborn'], [C.Minion, C.Living, C.Beast, C.Swampfiend, C.Wave1], 6),
         new Model('Young Nephilim', ['Neverborn'], [C.Minion, C.Living, C.Nephilim, C.Wave1], 6),
-        
+
         new Model('The Dreamer', [C.Neverborn], [C.Master, C.Spirit, C.Wave2], undefined, 3),
         new Model('Lord Chompy Bits', [C.Neverborn], [C.Henchman, C.Rare1, C.Nightmare, C.Tyrant, C.Wave2], 0),
         new Model('Daydream', [C.Neverborn], [C.Peon, C.TotemFor('The Dreamer'), C.Rare3, C.Nightmare, C.Wave2], 2),
@@ -192,7 +192,7 @@ var ModelList = {
         new Model('Mysterious Effigy', [C.Neverborn], [C.Minion, C.Construct, C.Rare1, C.Puppet, C.Effigy, C.Wave2], 4),
         new Model('The Depleted', [C.Neverborn], [C.Minion, C.Living, C.Brilliance, C.Darkened, C.Wave2], 4),
         new Model('Hooded Rider', [C.Neverborn], [C.Enforcer, C.Construct, C.Rare1, C.Horseman, C.Wave2], 12),
-        
+
         new Model('Von Schill', [C.Outcast], [C.Master, C.Living, C.Freikorps, C.Wave1], undefined, 1),
         new Model('Tara', [C.Outcast, C.Resurrectionist], [C.Master, C.Undead, C.Wave1], undefined, 4),
         new Model('Viktoria of Ashes', [C.Outcast], [C.Master, C.Living, C.Sister, C.Wave1], undefined, 1),
@@ -214,7 +214,7 @@ var ModelList = {
         new Model('Killjoy', [C.Outcast], [C.Enforcer, C.Undead, C.Mercenary, C.Rare1, C.Horror, C.Wave1], 12),
         new Model('Ronin', [C.Outcast], [C.Minion, C.Living, C.Mercenary, C.Wave1], 6),
         new Model('Void Wretch', [C.Outcast], [C.Minion, C.Wave1], 4),
-        
+
         new Model('Jack Daw', [C.Outcast], [C.Master, C.Undead, C.Tormented, C.Spirit, C.Cursed, C.Wave2], undefined, 2),
         new Model('The Guilty', [C.Outcast], [C.Minion, C.Undead, C.Tormented, C.Wave2], 5),
         new Model('Montresor', [C.Outcast], [C.Henchman, C.Undead, C.Rare1, C.Tormented, C.Wave2], 9, 4),
@@ -242,7 +242,7 @@ var ModelList = {
         new Model('Hollow Waif', [C.Outcast], [C.Peon, C.Undead, C.TotemFor('Leveticus'), C.Rare3, C.Wave2], 0),
         new Model('Abomination', [C.Outcast], [C.Minion, C.Construct, C.Undead, C.Wave2], 4),
         new Model('Desolation Engine', [C.Outcast], [C.Enforcer, C.Undead, C.Construct, C.Rare1, C.Wave2], 13),
-                
+
         new Model('Som\'er Teeth Jones', [C.Gremlin], [C.Master, C.Living, C.Gremlin, C.Wave1], undefined, 4),
         new Model('Ophelia LaCroix', [C.Gremlin], [C.Master, C.Living, C.Gremlin, C.Kin, C.Wave1], undefined, 3),
         new Model('The Brewmaster', [C.Gremlin, C.TenThunders], [C.Master, C.Living, C.Gremlin, C.TriChi, C.Wave1], undefined, 3),
@@ -263,7 +263,7 @@ var ModelList = {
         new Model('Pere Ravage', [C.Gremlin], [C.Enforcer, C.Living, C.Rare1, C.Gremlin, C.Kin, C.Wave1], 6),
         new Model('Rami LaCroix', [C.Gremlin], [C.Enforcer, C.Living, C.Rare1, C.Gremlin, C.Kin, C.Wave1], 7),
         new Model('Raphael LaCroix', [C.Gremlin], [C.Enforcer, C.Living, C.Rare1, C.Gremlin, C.Kin, C.Wave1], 7),
-        
+
         new Model('Ulix', [C.Gremlin], [C.Master, C.Living, C.Gremlin, C.Wave2], undefined, 4),
         new Model('Penelope', [C.Gremlin], [C.Peon, C.Living, C.TotemFor('Ulix'), C.Hound, C.Wave2], 2),
         new Model('The Sow', [C.Gremlin], [C.Minion, C.Living, C.Rare1, C.Beast, C.Pig, C.Wave2], 8),
@@ -288,7 +288,7 @@ var ModelList = {
         new Model('Bayou Gator', [C.Gremlin], [C.Minion, C.Living, C.Swampfiend, C.Wave2], 5),
         new Model('Sammy LaCroix', [C.Gremlin], [C.Henchman, C.Living, C.Rare1, C.Gremlin, C.Kin, C.Wave2], 7, 6),
         new Model('Old Cranky', [C.Gremlin], [C.Peon, C.Living, C.Totem, C.Gremlin, C.Wave2], 4),
-                
+
         new Model('Misaki', [C.TenThunders, C.Outcast], [C.Master, C.Living, C.LastBlossom, C.Wave1], undefined, 2),
         new Model('Mei Feng', [C.TenThunders, C.Arcanist], [C.Master, C.Living, C.Foundry, C.Wave1], undefined, 3),
         new Model('Jakob Lynch', [C.TenThunders, C.Neverborn], [C.Master, C.Living, C.Darkened, C.Wave1], undefined, 1),
@@ -307,7 +307,7 @@ var ModelList = {
         new Model('Thunder Archer', [C.TenThunders], [C.Minion, C.Living, C.Wave1], 7),
         new Model('Torakage', [C.TenThunders], [C.Minion, C.Living, C.Mercenary, C.LastBlossom, C.Wave1], 6),
         new Model('Samurai', [C.TenThunders], [C.Enforcer, C.Living, C.Wave1], 8),
-        
+
         new Model('Lucas McCabe', [C.TenThunders, C.Guild], [C.Master, C.Living, C.BlackSheep, C.Wave2], undefined, 2),
         new Model('Dismounted McCabe', [C.TenThunders, C.Guild], [C.Master, C.Living, C.BlackSheep, C.Wave2], undefined, 0),
         new Model('Sidir Alchibal', [C.TenThunders, C.Guild], [C.Henchman, C.Living, C.Rare1, C.BlackSheep, C.Wave2], 9, 4),
@@ -333,7 +333,7 @@ var ModelList = {
         new Model('Kamaitachi', [C.TenThunders], [C.Minion, C.Totem, C.Oni, C.Wave2], 4),
         new Model('Tengu', [C.TenThunders], [C.Minion, C.Spirit, C.Oni, C.Wave2], 4),
         new Model('Katanaka Sniper', [C.TenThunders], [C.Minion, C.Living, C.Rare2, C.Wave2], 7),
-        
+
         new Model('Brutal Emissary', [C.Guild], [C.Enforcer, C.Rare1, C.EmissaryOfFate, C.Wave3], 10),
         new Model('Master Queeg', [C.Guild], [C.Henchman, C.Living, C.Rare1, C.Guardsman, C.BlackSheep, C.Wave3], 7, 6),
         new Model('Dr. Grimwell', [C.Guild], [C.Henchman, C.Living, C.Mercenary, C.Rare1, C.WitchHunter, C.Wave3], 9, 4),
@@ -342,19 +342,19 @@ var ModelList = {
         new Model('Sanctioned Spellcaster', [C.Guild], [C.Minion, C.Living, C.Academic, C.Wave3], 5),
         new Model('Orderly', [C.Guild], [C.Minion, C.Living, C.Mercenary, C.Rare2, C.WitchHunter, C.Wave3], 5),
         new Model('Mounted Guard', [C.Guild], [C.Minion, C.Living, C.Guardsman, C.Wave3], 7),
-        
+
         new Model('Carrion Emissary', [C.Resurrectionist], [C.Enforcer, C.Rare1, C.EmissaryOfFate, C.Wave3], 10),
         new Model('Anna Lovelace', [C.Resurrectionist], [C.Henchman, C.Living, C.Mercenary, C.Rare1, C.Wave3], 9, 4),
         new Model('Sloth', [C.Resurrectionist], [C.Enforcer, C.Undead, C.Mercenary, C.Rare1, C.CrossroadsSeven, C.Tormented, C.Horror, C.Wave3], 8),
         new Model('The Forgotten Marshal', [C.Resurrectionist], [C.Enforcer, C.Living, C.Rare1, C.Wave3], 7),
         new Model('Hayreddin', [C.Resurrectionist], [C.Enforcer, C.Living, C.Rare1, C.Nephilim, C.Wave3], 7),
-        
+
         new Model('Arcane Emissary', [C.Arcanist], [C.Enforcer, C.Rare1, C.EmissaryOfFate, C.Wave3], 10),
         new Model('Wind Gamin', [C.Arcanist], [C.Minion, C.Living, C.Gamin, C.Wave3], 4),
         new Model('The Scorpius', [C.Arcanist], [C.Minion, C.Living, C.Construct, C.Rare1, C.Beast, C.Wave3], 6),
         new Model('Ice Dancer', [C.Arcanist], [C.Minion, C.Living, C.Showgirl, C.Wave3], 6),
         new Model('Envy', [C.Arcanist], [C.Enforcer, C.Living, C.Mercenary, C.Rare1, C.CrossroadsSeven, C.Tormented, C.Wave3], 8),
-        
+
         new Model('Mysterious Emissary', [C.Neverborn], [C.Enforcer, C.Rare1, C.EmissaryOfFate, C.Wave3], 10),
         new Model('Wrath', [C.Neverborn], [C.Henchman, C.Living, C.Mercenary, C.Rare1, C.CrossroadsSeven, C.Tormented, C.Wave3], 8, 5),
         new Model('Angel Eyes', [C.Neverborn], [C.Henchman, C.Living, C.Mercenary, C.Rare1, C.Nephilim, C.Wave3], 9, 4),
@@ -363,25 +363,25 @@ var ModelList = {
         new Model('Changeling', [C.Neverborn], [C.Minion, C.Living, C.Rare3, C.Mimic, C.Wave3], 4),
         new Model('Bloodwretch', [C.Neverborn], [C.Minion, C.Living, C.Mercenary, C.Rare2, C.Nephilim, C.Wave3], 5),
         new Model('Bunraku', [C.Neverborn, C.TenThunders], [C.Minion, C.Construct, C.Puppet, C.Wave3], 6),
-        
+
         new Model('Hodgepodge Emissary', [C.Outcast], [C.Enforcer, C.Rare1, C.EmissaryOfFate, C.Cursed, C.Wave3], 10),
         new Model('Scion of the Void', [C.Outcast], [C.Henchman, C.Rare1, C.Wave3], 8, 5),
         new Model('Pride', [C.Outcast], [C.Enforcer, C.Living, C.Mercenary, C.Rare1, C.CrossroadsSeven, C.Tormented, C.Wave3], 8),
         new Model('Big Jake', [C.Outcast], [C.Enforcer, C.Living, C.Mercenary, C.Rare1, C.Wave3], 5),
         new Model('The Winged Plague', [C.Outcast], [C.Minion, C.Living, C.Vermin, C.Wave3], 4),
-        
+
         new Model('Lucky Emissary', [C.Gremlin], [C.Enforcer, C.Rare1, C.EmissaryOfFate, C.Wave3], 10),
         new Model('Sparks', [C.Gremlin], [C.Henchman, C.Living, C.Rare1, C.Gremlin, C.Foundry, C.Wave3], 7, 6),
         new Model('Gluttony', [C.Gremlin], [C.Enforcer, C.Living, C.Mercenary, C.Rare1, C.CrossroadsSeven, C.Tormented, C.Wave3], 8),
         new Model('Survivor', [C.Gremlin], [C.Minion, C.Living, C.Construct, C.Gremlin, C.Wave3], 5),
         new Model('Mechanized Porkchop', [C.Gremlin], [C.Minion, C.Construct, C.Pig, C.Foundry, C.Wave3], 7),
-        
+
         new Model('Shadow Emissary', [C.TenThunders], [C.Enforcer, C.Rare1, C.EmissaryOfFate, C.Wave3], 10),
         new Model('Lust', [C.TenThunders], [C.Enforcer, C.Living, C.Mercenary, C.Rare1, C.CrossroadsSeven, C.Tormented, C.Wave3], 8),
         new Model('Wandering River Monk', [C.TenThunders], [C.Minion, C.Living, C.Wave3], 7),
         new Model('Obsidian Oni', [C.TenThunders], [C.Minion, C.Oni, C.Wave3], 6),
         new Model('Jorogumo', [C.TenThunders], [C.Minion, C.Oni, C.LastBlossom, C.Wave3], 9),
-        
+
         new Model('Nellie Cochrane', [C.Guild], [C.Master, C.Living, C.Journalist, C.Wave4], undefined, 4),
         new Model('The Printing Press', [C.Guild], [C.Peon, C.Construct, C.TotemFor('Nellie Cochrane'), C.Journalist, C.Wave4], 3),
         new Model('Phiona Gage', [C.Guild], [C.Henchman, C.Living, C.Rare1, C.Journalist, C.Wave4], 8, 5),
@@ -389,7 +389,7 @@ var ModelList = {
         new Model('Field Reporter', [C.Guild], [C.Minion, C.Living, C.Journalist, C.Wave4], 4),
         new Model('Death Marshal Recruiter', [C.Guild], [C.Enforcer, C.Living, C.Rare2, C.GuildMarshal, C.Wave4], 7),
         new Model('Witchling Thrall', [C.Guild], [C.Minion, C.Living, C.WitchHunter, C.Wave4], 9),
-        
+
         new Model('Reva', [C.Resurrectionist], [C.Master, C.Living, C.Revenant, C.Wave4], undefined, 4),
         new Model('Corpse Candle', [C.Resurrectionist], [C.Peon, C.Undead, C.TotemFor('Reva'), C.Spirit, C.Revenant, C.Wave4], 2),
         new Model('Vincent St. Clair', [C.Resurrectionist], [C.Henchman, C.Living, C.Rare1, C.Revenant, C.Wave4], 8, 5),
@@ -397,7 +397,7 @@ var ModelList = {
         new Model('Shieldbearer', [C.Resurrectionist], [C.Minion, C.Living, C.Revenant, C.Wave4], 6),
         new Model('Draugr', [C.Resurrectionist], [C.Minion, C.Undead, C.Revenant, C.Horror, C.Wave4], 8),
         new Model('Goryo', [C.Resurrectionist], [C.Minion, C.Spirit, C.Retainer, C.Wave4], 7),
-        
+
         new Model('Sandeep Desai', [C.Arcanist], [C.Master, C.Living, C.Academic, C.Wave4], undefined, 4),
         new Model('Corpse Candle', [C.Arcanist], [C.Minion, C.TotemFor('Sandeep Desai'), C.Rare1, C.Gamin, C.Wave4], 8),
         new Model('Kudra', [C.Arcanist], [C.Henchman, C.Living, C.Rare1, C.Academic, C.Wave4], 7, 6),
@@ -405,7 +405,7 @@ var ModelList = {
         new Model('Carlos Vasquez', [C.Arcanist], [C.Henchman, C.Living, C.Rare1, C.Showgirl, C.Wave4], 9, 4),
         new Model('Poison Gamin', [C.Arcanist], [C.Minion, C.Construct, C.Gamin, C.Beast, C.Wave4], 5),
         new Model('Shastar Vidiya Guard', [C.Arcanist], [C.Enforcer, C.Living, C.Msu, C.Academic, C.Wave4], 8),
-        
+
         new Model('Titania', [C.Neverborn], [C.Master, C.Undead, C.Fae, C.Wave4], undefined, 4),
         new Model('The Gorare', [C.Neverborn], [C.Peon, C.Living, C.TotemFor('Titania'), C.Fae, C.Wave4], 3),
         new Model('Aeslin', [C.Neverborn], [C.Henchman, C.Undead, C.Rare1, C.Fae, C.Wave4], 9, 4),
@@ -415,7 +415,7 @@ var ModelList = {
         new Model('Bandersnatch', [C.Neverborn], [C.Minion, C.Living, C.Rare1, C.Fae, C.Nightmare, C.Spirit, C.Wave4], 5),
         new Model('Will O\' the Wisp', [C.Neverborn], [C.Minion, C.Rare3, C.Spirit, C.Swampfiend, C.Wave4], 3),
         new Model('Rougarou', [C.Neverborn], [C.Minion, C.Undead, C.Fae, C.Beast, C.Wave4], 8),
-        
+
         new Model('Parker Barrows', [C.Outcast], [C.Master, C.Living, C.Bandit, C.Wave4], undefined, 4),
         new Model('Doc Mitchell', [C.Outcast], [C.Minion, C.Living, C.TotemFor('Parker Barrows'), C.Wave4], 3),
         new Model('Mad Dog Brackett', [C.Outcast], [C.Henchman, C.Living, C.Rare1, C.Bandit, C.Wave4], 9, 4),
@@ -423,7 +423,7 @@ var ModelList = {
         new Model('Bandido', [C.Outcast], [C.Minion, C.Living, C.Bandit, C.Wave4], 5),
         new Model('Dead Outland', [C.Outcast], [C.Minion, C.Undead, C.Bandit, C.Tormented, C.Wave4], 6),
         new Model('Wokou Raider', [C.Outcast], [C.Minion, C.Living, C.Bandit, C.LastBlossom, C.Wave4], 8),
-        
+
         new Model('Zipp', [C.Gremlin], [C.Master, C.Living, C.Gremlin, C.SkyPirate, C.Wave4], undefined, 4),
         new Model('Earl Burns', [C.Gremlin], [C.Minion, C.Living, C.TotemFor('Zipp'), C.Wave4], 3),
         new Model('The First Mate', [C.Gremlin], [C.Henchman, C.Living, C.Rare1, C.Swampfiend, C.SkyPirate, C.Wave4], 9, 4),
@@ -431,12 +431,20 @@ var ModelList = {
         new Model('Akaname', [C.Gremlin, C.TenThunders], [C.Minion, C.Rare3, C.Oni, C.TriChi, C.Wave4], 4),
         new Model('Banjonista', [C.Gremlin], [C.Minion, C.Living, C.Gremlin, C.Wave4], 5),
         new Model('Swine-Cursed', [C.Gremlin], [C.Minion, C.Living, C.Rare2, C.Gremlin, C.Wave4], 7),
-        
+
         new Model('Asami Tanaka', [C.TenThunders], [C.Master, C.Living, C.Oni, C.Wave4], undefined, 3),
         new Model('Amanjaku', [C.TenThunders], [C.Peon, C.TotemFor('Asami Tanaka'), C.Oni, C.Wave4], 3),
         new Model('Ohaguro Bettari', [C.TenThunders], [C.Henchman, C.Rare1, C.Oni, C.Wave4], 8, 5),
         new Model('Yokai', [C.TenThunders], [C.Minion, C.Oni, C.Wave4], 5),
         new Model('Terracotta Warrior', [C.TenThunders], [C.Minion, C.Construct, C.Rare3, C.Mimic, C.Wave4], 5),
-        new Model('Sun Quiang', [C.TenThunders], [C.Enforcer, C.Rare1, C.Living, C.Retainer, C.Wave4], 8)
+        new Model('Sun Quiang', [C.TenThunders], [C.Enforcer, C.Rare1, C.Living, C.Retainer, C.Wave4], 8),
+
+        new Model('The Jury', [C.Guild], [C.Henchman, C.Rare1, C.Living, C.GuildMarshal, C.Wave5], 8, 5),
+        new Model('Guild Investigator', [C.Guild], [C.Minion, C.Rare2, C.Living, C.Guardsman, C.Wave5], 6),
+        new Model('Monster Hunter', [C.Guild], [C.Minion, C.Rare2, C.Living, C.Family, C.Wave5], 6),
+        new Model('Thalarian Queller', [C.Guild], [C.Minion, C.Living, C.WitchHunter, C.Wave5], 6),
+        new Model('Domador de Cadaveres', [C.Guild], [C.Enforcer, C.Rare2, C.Living, C.GuildMarshal, C.Wave5], 7),
+        new Model('Riotbreaker', [C.Guild], [C.Minion, C.Construct, C.Wave5], 6),
+
     ]
 };

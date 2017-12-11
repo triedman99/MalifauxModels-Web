@@ -27,7 +27,7 @@ var UpgradeList = {
         new Upgrade('Diestro', [C.Guild], [C.Upgrade, C.Family, C.Rare1, C.Wave1], 3),
         new Upgrade('Hermanos De Armas', [C.Guild], [C.Upgrade, C.Family, C.Rare1, C.Wave1], 1),
         new Upgrade('Wade In', [C.Guild], [C.Upgrade, 'Franscisco Ortega', C.Wave1], 1),
-        
+
         new Upgrade('Arcanist Assets', [C.Guild], [C.Upgrade, 'C. Hoffman', C.Wave2], 1),
         new Upgrade('On Site Assimiliation', [C.Guild], [C.Upgrade, 'C. Hoffman', C.Wave2], 2),
         new Upgrade('Field Mechanic', [C.Guild], [C.Upgrade, 'C. Hoffman', C.Limited, C.Wave2], 2),
@@ -46,7 +46,7 @@ var UpgradeList = {
         new Upgrade('Useless Duplications', [C.Guild, C.Neverborn], [C.Upgrade, C.Mimic, C.Rare1, C.Wave2], 1),
         new Upgrade('Dampening Field', [C.Guild], [C.Upgrade, C.Henchman, C.Master, C.Rare1, C.Wave2], 1),
         new Upgrade('Expert Sleuth', [C.Guild], [C.Upgrade, C.Rare3, C.Wave2], 1),
-                
+
         new Upgrade('Unnerving Aura', [C.Resurrectionist], [C.Upgrade, C.Rare3, C.Wave1], 1),
         new Upgrade('Decaying Aura', [C.Resurrectionist], [C.Upgrade, C.Rare1, C.Wave1], 2),
         new Upgrade('Transfusion', [C.Resurrectionist], [C.Upgrade, C.Rare2, C.Wave1], 1),
@@ -71,7 +71,7 @@ var UpgradeList = {
         new Upgrade('Necrotic King', [C.Resurrectionist], [C.Upgrade, 'Nicodem', C.Wave1], 2),
         new Upgrade('My Favorite Shovel', [C.Resurrectionist], [C.Upgrade, 'Mortimer', C.Wave1], 2),
         new Upgrade('Love Thy Master', [C.Resurrectionist], [C.Upgrade, 'Nicodem', 'Mortimer', C.Rare1, C.Wave1], 1),
-        
+
         new Upgrade('Spare Parts', [C.Resurrectionist], [C.Upgrade, C.Leader, C.Wave2], 2),
         new Upgrade('Forgotten Path', [C.Resurrectionist], [C.Upgrade, 'Molly', C.Limited, C.Wave2], 1),
         new Upgrade('Forgotten Life', [C.Resurrectionist], [C.Upgrade, 'Molly', C.Limited, C.Wave2], 1),
@@ -86,7 +86,7 @@ var UpgradeList = {
         new Upgrade('Swirling Aether', [C.Resurrectionist], [C.Upgrade, 'Kirai', C.Wave2], 2),
         new Upgrade('Spirit Beacon', [C.Resurrectionist], [C.Upgrade, 'Kirai', C.Spirit, C.Rare1, C.Wave2], 1),
         new Upgrade('Necrotic Preparation', [C.Resurrectionist], [C.Upgrade, C.Rare3, C.Wave2], 1),
-        
+
         new Upgrade('Imbued Protection', [C.Arcanist], [C.Upgrade, C.Rare2, C.Wave1], 2),
         new Upgrade('Imbued Energies', [C.Arcanist], [C.Upgrade, C.Rare3, C.Wave1], 1),
         new Upgrade('The Philosopher\'s Stone', [C.Arcanist], [C.Upgrade, C.Leader, C.Wave1], 1),
@@ -110,7 +110,7 @@ var UpgradeList = {
         new Upgrade('Under Pressure', [C.Arcanist], [C.Upgrade, 'Ramos', C.Wave1], 2),
         new Upgrade('Open Current', [C.Arcanist], [C.Upgrade, 'Joss', C.Wave1], 1),
         new Upgrade('Bleeding Edge Tech', [C.Arcanist], [C.Upgrade, C.Msu, C.Rare1, C.Wave1], 1),
-        
+
         new Upgrade('Grab and Drop', [C.Arcanist], [C.Upgrade, 'Kaeris', C.Limited, C.Wave2], 1),
         new Upgrade('Purifying Fire', [C.Arcanist], [C.Upgrade, 'Kaeris', C.Limited, C.Wave2], 1),
         new Upgrade('Born of Fire', [C.Arcanist], [C.Upgrade, 'Kaeris', C.Wave2], 2),
@@ -134,7 +134,7 @@ var UpgradeList = {
         new Upgrade('Seize the Day', [C.Arcanist], [C.Upgrade, C.Leader, C.Wave2], 1),
         new Upgrade('Killswitch', [C.Arcanist], [C.Upgrade, C.Rare1, C.Wave2], 1),
         new Upgrade('Decoy', [C.Arcanist], [C.Upgrade, C.Rare2, C.Wave2], 0),
-                
+
         new Upgrade('Pact', [C.Neverborn], [C.Upgrade, C.Rare3, C.Wave1], 1),
         new Upgrade('Fears Given Form', [C.Neverborn], [C.Upgrade, C.Master, C.Henchman, C.Rare2, C.Wave1], 1),
         new Upgrade('Nexus of Power', [C.Neverborn], [C.Upgrade, C.Henchman, C.Enforcer, C.Rare1, C.Wave1], 1),
@@ -158,7 +158,7 @@ var UpgradeList = {
         new Upgrade('Tarot Reading', [C.Neverborn, C.Gremlin], [C.Upgrade, 'Zoraida', C.Wave1], 2),
         new Upgrade('Hex Bag', [C.Neverborn, C.Gremlin], [C.Upgrade, 'Zoraida', C.Wave1], 1),
         new Upgrade('Eternal Fiend', [C.Neverborn], [C.Upgrade, 'Bad Juju', C.Wave1], 2),
-        
+
         new Upgrade('Otherworldly', [C.Neverborn], [C.Upgrade, 'The Dreamer', C.Wave2], 2),
         new Upgrade('Restless Dreams', [C.Neverborn], [C.Upgrade, 'The Dreamer', C.Limited, C.Wave2], 1),
         new Upgrade('Tantrum', [C.Neverborn], [C.Upgrade, 'The Dreamer', C.Wave2], 2),
@@ -176,7 +176,7 @@ var UpgradeList = {
         new Upgrade('Retributions Eye', [C.Neverborn], [C.Upgrade, C.Enforcer, C.Rare1, C.Wave2], 1),
         new Upgrade('On Wings of Darkness', [C.Neverborn], [C.Upgrade, C.Leader, C.Wave2], 1),
         new Upgrade('The Mimic\'s Blessing', [C.Neverborn], [C.Upgrade, C.NonMaster, C.Rare3, C.Wave2], 1),
-                
+
         new Upgrade('Scramble', [C.Outcast], [C.Upgrade, C.Limited, C.Rare3, C.Wave1], 2),
         new Upgrade('Tally Sheet', [C.Outcast], [C.Upgrade, C.Master, C.Henchman, C.Rare2, C.Wave1], 1),
         new Upgrade('The Traveler\'s Stone', [C.Outcast], [C.Upgrade, C.Leader, C.Wave1], 1),
@@ -199,7 +199,7 @@ var UpgradeList = {
         new Upgrade('Howling Wolf Tattoo', [C.Outcast], [C.Upgrade, C.Sister, C.Rare1, C.Wave1], 1),
         new Upgrade('Mark of Shez\'uul', [C.Outcast], [C.Upgrade, C.Sister, C.Rare1, C.Wave1], 2),
         new Upgrade('Synchronized Slaying', [C.Outcast], [C.Upgrade, C.Sister, C.Rare1, C.Wave1], 2),
-        
+
         new Upgrade('Firing Squad Injustice', [C.Outcast], [C.Upgrade, 'Jack Daw', C.Cursed, C.Wave2], 0),
         new Upgrade('Drowning Injustice', [C.Outcast], [C.Upgrade, 'Jack Daw', C.Cursed, C.Wave2], 0),
         new Upgrade('Guillotine Injustice', [C.Outcast], [C.Upgrade, 'Jack Daw', C.Cursed, C.Wave2], 0),
@@ -224,7 +224,7 @@ var UpgradeList = {
         new Upgrade('Scout the Field', [C.Outcast], [C.Upgrade, C.Rare3, C.Wave2], 1),
         new Upgrade('Void Shield', [C.Outcast, C.Resurrectionist], [C.Upgrade, 'Nothing Beast', C.Wave2], 0),
         new Upgrade('The Faces of Oblivion', [C.Outcast, C.Resurrectionist], [C.Upgrade, 'Karina', C.Wave2], 0),
-        
+
         new Upgrade('Liquid Bravery', [C.Gremlin], [C.Upgrade, C.Leader, C.Wave1], 1),
         new Upgrade('Quality Mash Liquor', [C.Gremlin], [C.Upgrade, C.Master, C.Henchman, C.Rare1, C.Wave1], 2),
         new Upgrade('Dirty Cheater', [C.Gremlin], [C.Upgrade, C.Rare2, C.Wave1], 1),
@@ -247,7 +247,7 @@ var UpgradeList = {
         new Upgrade('My Threatenin\' Gun', [C.Gremlin], [C.Upgrade, 'Ophelia', C.Wave1], 1),
         new Upgrade('Gremlin-See', [C.Gremlin], [C.Upgrade, C.Kin, C.Rare2, C.Wave1], 1),
         new Upgrade('Team Work', [C.Gremlin], [C.Upgrade, C.Kin, C.Rare3, C.Wave1], 1),
-        
+
         new Upgrade('Clobberin\' Stick', [C.Gremlin], [C.Upgrade, 'Ulix', C.Wave2], 1),
         new Upgrade('Huntin\' Bow', [C.Gremlin], [C.Upgrade, 'Ulix', C.Wave2], 2),
         new Upgrade('Pig Sling', [C.Gremlin], [C.Upgrade, 'Ulix', C.Wave2], 1),
@@ -269,7 +269,7 @@ var UpgradeList = {
         new Upgrade('Hexed Among You', [C.Gremlin, C.Neverborn], [C.Upgrade, C.Swampfiend, C.Rare1, C.Wave1, C.Wave2], 1),
         new Upgrade('On Yer Tip Toes', [C.Gremlin], [C.Upgrade, C.Master, C.Henchman, C.Rare1, C.Wave2], 1),
         new Upgrade('Hide in the Mud', [C.Gremlin], [C.Upgrade, C.Rare3, C.Wave2], 1),
-        
+
         new Upgrade('Servent of 5 Dragons', [C.TenThunders], [C.Upgrade, C.Rare3, C.Wave1], 1),
         new Upgrade('Broken Promises', [C.TenThunders], [C.Upgrade, C.Master, C.Henchman, C.Rare2, C.Wave1], 2),
         new Upgrade('Recalled Training', [C.TenThunders], [C.Upgrade, C.Master, C.Henchman, C.Rare3, C.Wave1], 1),
@@ -293,7 +293,7 @@ var UpgradeList = {
         new Upgrade('Wanna See a Trick', [C.TenThunders, C.Neverborn], [C.Upgrade, 'Jacob Lynch', C.Wave1], 1),
         new Upgrade('Woke Up With a Hand', [C.TenThunders, C.Neverborn], [C.Upgrade, 'Jacob Lynch', C.Wave1], 2),
         new Upgrade('Addict', [C.TenThunders, C.Neverborn], [C.Upgrade, 'Jacob Lynch', 'Hungering Darkness', C.Rare1, C.Wave1], 1),
-        
+
         new Upgrade('Badge of Speed', [C.TenThunders, C.Guild], [C.Upgrade, 'Lucas McCabe', C.Wave2], 2),
         new Upgrade('Glowing Sabre', [C.TenThunders, C.Guild], [C.Upgrade, 'Lucas McCabe', C.Wave2], 2),
         new Upgrade('Elixir of Life', [C.TenThunders, C.Guild], [C.Upgrade, 'Lucas McCabe', C.Wave2], 2),
@@ -322,7 +322,7 @@ var UpgradeList = {
         new Upgrade('Favor of Heaven', [C.TenThunders], [C.Upgrade, C.Rare1, 'Samurai', C.Wave2], 0),
         new Upgrade('Favor of Earth', [C.TenThunders], [C.Upgrade, C.Rare1, 'Samurai', C.Wave2], 0),
         new Upgrade('Favor of Jigoku', [C.TenThunders], [C.Upgrade, C.Rare1, 'Samurai', C.Wave2], 0),
-        
+
         new Upgrade('Research Grant', [C.Guild], [C.Upgrade, 'Dr. Grimwell', C.Wave3], 1),
         new Upgrade('Conflux of Judgement', [C.Guild], [C.Upgrade, C.EmissaryOfFate, C.Wave3], 0),
         new Upgrade('Conflux of Incineration', [C.Guild], [C.Upgrade, C.EmissaryOfFate, C.Wave3], 0),
@@ -330,14 +330,14 @@ var UpgradeList = {
         new Upgrade('Conflux of Amalgamation', [C.Guild], [C.Upgrade, C.EmissaryOfFate, C.Wave3], 0),
         new Upgrade('Conflux of Tyranny', [C.Guild, C.Neverborn], [C.Upgrade, C.EmissaryOfFate, C.Wave3], 0),
         new Upgrade('Brutal Conflux', [C.Guild], [C.Upgrade, C.EmissaryOfFate, C.Wave3], 0),
-        
+
         new Upgrade('Conflux of Infamy', [C.Resurrectionist], [C.Upgrade, C.EmissaryOfFate, C.Wave3], 0),
         new Upgrade('Conflux of Death', [C.Resurrectionist], [C.Upgrade, C.EmissaryOfFate, C.Wave3], 0),
         new Upgrade('Conflux of Forbidden Knowledge', [C.Resurrectionist, C.Guild], [C.Upgrade, C.EmissaryOfFate, C.Wave3], 0),
         new Upgrade('Conflux of Spirit', [C.Resurrectionist], [C.Upgrade, C.EmissaryOfFate, C.Wave3], 0),
         new Upgrade('Conflux of Horror', [C.Resurrectionist], [C.Upgrade, C.EmissaryOfFate, C.Wave3], 0),
         new Upgrade('Carrion Conflux', [C.Resurrectionist], [C.Upgrade, C.EmissaryOfFate, C.Wave3], 0),
-        
+
         new Upgrade('Elemental Conflux', [C.Arcanist], [C.Upgrade, C.EmissaryOfFate, C.Wave3], 0),
         new Upgrade('Raging Conflux', [C.Arcanist], [C.Upgrade, C.EmissaryOfFate, C.Wave3], 0),
         new Upgrade('Illusive Conflux', [C.Arcanist], [C.Upgrade, C.EmissaryOfFate, C.Wave3], 0),
@@ -345,7 +345,7 @@ var UpgradeList = {
         new Upgrade('Mechanical Conflux', [C.Arcanist], [C.Upgrade, C.EmissaryOfFate, C.Wave3], 0),
         new Upgrade('Flaming Conflux', [C.Arcanist], [C.Upgrade, C.EmissaryOfFate, C.Wave3], 0),
         new Upgrade('Arcane Conflux', [C.Arcanist], [C.Upgrade, C.EmissaryOfFate, C.Wave3], 0),
-        
+
         new Upgrade('Strange Alliances', [C.Neverborn], [C.Upgrade, 'Angel Eyes', C.Wave3], 1),
         new Upgrade('Deal at the Crossroads', [C.Neverborn], [C.Upgrade, 'Wrath', C.Wave3], 0),
         new Upgrade('Conflux of Sorrow', [C.Neverborn], [C.Upgrade, C.EmissaryOfFate, C.Wave3], 0),
@@ -354,7 +354,7 @@ var UpgradeList = {
         new Upgrade('Conflux of Music', [C.Neverborn], [C.Upgrade, C.EmissaryOfFate, C.Wave3], 0),
         new Upgrade('Conflux of Nightmare', [C.Neverborn], [C.Upgrade, C.EmissaryOfFate, C.Wave3], 0),
         new Upgrade('Mysterious Conflux', [C.Neverborn], [C.Upgrade, C.EmissaryOfFate, C.Wave3], 0),
-        
+
         new Upgrade('Conflux of Avarice', [C.Outcast], [C.Upgrade, C.EmissaryOfFate, C.Wave3], 0),
         new Upgrade('Conflux of Nothingness', [C.Outcast, C.Resurrectionist], [C.Upgrade, C.EmissaryOfFate, C.Wave3], 0),
         new Upgrade('Conflux of Plague', [C.Outcast], [C.Upgrade, C.EmissaryOfFate, C.Wave3], 0),
@@ -367,7 +367,7 @@ var UpgradeList = {
         new Upgrade('Vitality Potion', [C.Outcast], [C.Upgrade, C.Trinket, C.Wave3], 0),
         new Upgrade('Memento', [C.Outcast], [C.Upgrade, C.Trinket, C.Wave3], 0),
         new Upgrade('Pretty Floral Bonnet', [C.Outcast], [C.Upgrade, C.Trinket, C.Wave3], 0),
-        
+
         new Upgrade('Conflux of Misfortune', [C.Gremlin], [C.Upgrade, C.EmissaryOfFate, C.Wave3], 0),
         new Upgrade('Conflux of Inebriation', [C.Gremlin, C.TenThunders], [C.Upgrade, C.EmissaryOfFate, C.Wave3], 0),
         new Upgrade('Conflux of Blood Ties', [C.Gremlin], [C.Upgrade, C.EmissaryOfFate, C.Wave3], 0),
@@ -375,7 +375,7 @@ var UpgradeList = {
         new Upgrade('Conflux of Explosive Force', [C.Gremlin], [C.Upgrade, C.EmissaryOfFate, C.Wave3], 0),
         new Upgrade('Conflux of Bushwhacking', [C.Gremlin], [C.Upgrade, C.EmissaryOfFate, C.Wave3], 0),
         new Upgrade('Lucky Conflux', [C.Gremlin], [C.Upgrade, C.EmissaryOfFate, C.Wave3], 0),
-        
+
         new Upgrade('Conflux of Combat', [C.TenThunders, C.Arcanist], [C.Upgrade, C.EmissaryOfFate, C.Wave3], 0),
         new Upgrade('Conflux of Hunger', [C.TenThunders, C.Neverborn], [C.Upgrade, C.EmissaryOfFate, C.Wave3], 0),
         new Upgrade('Conflux of Exploration', [C.TenThunders, C.Guild], [C.Upgrade, C.EmissaryOfFate, C.Wave3], 0),
@@ -383,7 +383,7 @@ var UpgradeList = {
         new Upgrade('Conflux of Thunder', [C.TenThunders, C.Outcast], [C.Upgrade, C.EmissaryOfFate, C.Wave3], 0),
         new Upgrade('Ancestral Conflux', [C.TenThunders, C.Resurrectionist], [C.Upgrade, C.EmissaryOfFate, C.Wave3], 0),
         new Upgrade('Shadow Conflux', [C.TenThunders], [C.Upgrade, C.EmissaryOfFate, C.Wave3], 0),
-        
+
         new Upgrade('Guild Funds', [C.Guild], [C.Upgrade, 'Nellie Cochrane', C.Wave4], 1),
         new Upgrade('Embedded', [C.Guild], [C.Upgrade, 'Nellie Cochrane', C.Wave4], 1),
         new Upgrade('Misleading Headlines', [C.Guild], [C.Upgrade, 'Nellie Cochrane', C.Wave4], 1),
@@ -395,7 +395,7 @@ var UpgradeList = {
         new Upgrade('Curfew', [C.Guild], [C.Upgrade, C.Rare1, C.Wave4], 1),
         new Upgrade('Numb to the World', [C.Guild], [C.Upgrade, C.NonMaster, C.Rare1, C.Wave4], 1),
         new Upgrade('A Debt to the Guild', [C.Guild], [C.Upgrade, C.NonMaster, C.Rare3, C.Wave4], 1),
-        
+
         new Upgrade('Guises of Death', [C.Resurrectionist], [C.Upgrade, 'Reva', C.Limited, C.Wave4], 1),
         new Upgrade('Beyond Death', [C.Resurrectionist], [C.Upgrade, 'Reva', C.Limited, C.Wave4], 1),
         new Upgrade('Blood Mark', [C.Resurrectionist], [C.Upgrade, 'Reva', C.Wave4], 1),
@@ -411,7 +411,7 @@ var UpgradeList = {
         new Upgrade('Haunting Cries', [C.Resurrectionist], [C.Upgrade, 'Philip and the Nanny', C.Wave4], 0),
         new Upgrade('Admiration', [C.Resurrectionist], [C.Upgrade, C.NonMaster, C.Rare2, C.Wave4], 1),
         new Upgrade('My Little Helper', [C.Resurrectionist], [C.Upgrade, C.NonMaster, C.Rare2, C.Wave4], 1),
-        
+
         new Upgrade('Enlightened Soul', [C.Arcanist], [C.Upgrade, 'Sandeep Desai', C.Wave4], 1),
         new Upgrade('Unaligned Sage', [C.Arcanist], [C.Upgrade, 'Sandeep Desai', C.Wave4], 1),
         new Upgrade('To Behold Another World', [C.Arcanist], [C.Upgrade, 'Sandeep Desai', C.Limited, C.Wave4], 1),
@@ -429,7 +429,7 @@ var UpgradeList = {
         new Upgrade('Temporary Shielding (x3)', [C.Arcanist], [C.Upgrade, 'Oxfordian Mage', C.Wave4], -1),
         new Upgrade('Well Rehearsed', [C.Arcanist], [C.Upgrade, C.Enforcer, C.Rare1, C.Wave4], 1),
         new Upgrade('Blade and Claw', [C.Arcanist], [C.Upgrade, C.Rare1, C.Wave4], 1),
-        
+
         new Upgrade('Behold My Glory', [C.Neverborn], [C.Upgrade, 'Titania', C.Wave4], 1),
         new Upgrade('An Audience With The Queen', [C.Neverborn], [C.Upgrade, 'Titania', C.Wave4], 1),
         new Upgrade('The Forest Claims All', [C.Neverborn], [C.Upgrade, 'Titania', C.Wave4], 1),
@@ -440,7 +440,7 @@ var UpgradeList = {
         new Upgrade('Enraged Tantrum', [C.Neverborn], [C.Upgrade, 'Iggy', C.Wave4], 0),
         new Upgrade('A Thousand Faces', [C.Neverborn], [C.Upgrade, C.NonMaster, C.Rare2, C.Wave4], 1),
         new Upgrade('Malifaux Provides', [C.Neverborn], [C.Upgrade, C.NonMaster, C.Rare2, C.Wave4], 1),
-        
+
         new Upgrade('Black Market', [C.Outcast], [C.Upgrade, 'Parker Barrows', C.Limited, C.Wave4], 1),
         new Upgrade('Highwayman', [C.Outcast], [C.Upgrade, 'Parker Barrows', C.Limited, C.Wave4], 1),
         new Upgrade('Crate of Dynamite', [C.Outcast], [C.Upgrade, 'Parker Barrows', 'Mad Dog Brackett', C.Rare1, C.Wave4], 1),
@@ -453,7 +453,7 @@ var UpgradeList = {
         new Upgrade('Brick by Brick', [C.Outcast], [C.Upgrade, 'Montresor', C.Wave4], 0),
         new Upgrade('Return Fire', [C.Outcast], [C.Upgrade, C.Enforcer, C.Rare2, C.Wave4], 1),
         new Upgrade('The Bigger They Are', [C.Outcast], [C.Upgrade, C.Rare1, C.Wave4], 1),
-        
+
         new Upgrade('The Gift of Gab', [C.Gremlin], [C.Upgrade, 'Zipp', C.Limited, C.Wave4], 1),
         new Upgrade('No Quarter', [C.Gremlin], [C.Upgrade, 'Zipp', C.Limited, C.Wave4], 1),
         new Upgrade('Bambling Diatribe', [C.Gremlin], [C.Upgrade, 'Zipp', C.Wave4], 1),
@@ -466,7 +466,7 @@ var UpgradeList = {
         new Upgrade('One Pig Against the World', [C.Gremlin], [C.Upgrade, 'War Pig', C.Rare3, C.Wave4], 0),
         new Upgrade('Pork Whisper\'n', [C.Gremlin], [C.Upgrade, C.Gremlin, C.Rare3, C.Wave4], 1),
         new Upgrade('Do Over', [C.Gremlin], [C.Upgrade, C.Rare1, C.Wave4], 1),
-        
+
         new Upgrade('Feigned Weakness', [C.TenThunders], [C.Upgrade, 'Asami Tanaka', C.Wave4], 1),
         new Upgrade('A Heavenly Design', [C.TenThunders], [C.Upgrade, 'Asami Tanaka', C.Wave4], 2),
         new Upgrade('Grasping Stands', [C.TenThunders], [C.Upgrade, 'Asami Tanaka', C.Wave4], 1),
@@ -477,6 +477,21 @@ var UpgradeList = {
         new Upgrade('The Peaceful Waters', [C.TenThunders], [C.Upgrade, C.Rare1, C.Wave4], 0),
         new Upgrade('Equality', [C.TenThunders], [C.Upgrade, C.Rare1, C.Wave4], 1),
         new Upgrade('Death Contract', [C.TenThunders], [C.Upgrade, C.Rare1, C.Wave4], 1),
-        new Upgrade('False Target', [C.TenThunders], [C.Upgrade, C.Rare1, C.Wave4], 0)
+        new Upgrade('False Target', [C.TenThunders], [C.Upgrade, C.Rare1, C.Wave4], 0),
+
+        new Upgrade('No More Masks', [C.Guild], [C.Upgrade, 'Sonnia', C.Wave5], 1),
+        new Upgrade('Cherufes Parting Gift', [C.Guild], [C.Upgrade, 'Sonnia', C.Wave5], 1),
+        new Upgrade('Swordfighter', [C.Guild], [C.Upgrade, 'Lady Justice', C.Wave5], 1),
+        new Upgrade('Ashwood Coffin', [C.Guild], [C.Upgrade, 'Lady Justice', C.Limited, C.Wave5], 2),
+        new Upgrade('Shooting Cans', [C.Guild], [C.Upgrade, 'Perdita', C.Wave5], 1),
+        new Upgrade('Fastest Draw in Malifaux', [C.Guild], [C.Upgrade, 'Perdita', C.Wave5], 1),
+        new Upgrade('Improved Harness', [C.Guild], [C.Upgrade, 'Hoffman', C.Wave5], 1),
+        new Upgrade('Pneumatic Upgrades', [C.Guild], [C.Upgrade, 'Hoffman', C.Wave5], 2),
+        new Upgrade('Cyborg', [C.Guild], [C.Upgrade, 'Hoffman', C.Rare3, C.Wave5], 0),
+        new Upgrade('Deep Pockets', [C.Guild, C.Neverborn], [C.Upgrade, 'Lucius', C.Limited, C.Wave5], 2),
+        new Upgrade('Condescending', [C.Guild, C.Neverborn], [C.Upgrade, 'Lucuis', C.Wave5], 1),
+        new Upgrade('Editor in Chief', [C.Guild], [C.Upgrade, 'Nellie Cochrane', C.Wave5], 2),
+        new Upgrade('Alternate Facts', [C.Guild], [C.Upgrade, 'Nellie Cochrane', C.Wave5], 2),
+        new Upgrade('Conflux of Propaganda', [C.Guild], [C.Upgrade, 'EmissaryOfFate', C.Wave5], 0)
     ]
 };

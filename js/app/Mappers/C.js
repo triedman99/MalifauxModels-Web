@@ -90,8 +90,9 @@ var C = {
     Wave2: 'Wave 2',
     Wave3: 'Wave 3',
     Wave4: 'Wave 4',
+    Wave5: 'Wave 5',
     Woe: 'Woe',
-    
+
     TotemFor: function(name) {
         return C.Totem + ' (' + name + ')';
     }
